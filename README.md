@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    <b>rayyan ahmad sultan</b> · nia · cs undergrad @ fast nuces
+    <b>rayyan ahmad sultan</b> · nia · 21 · cs undergrad @ fast nuces
   </samp>
 </p>
 
@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
-
 <br/>
-
 ---
 <p align="center"><samp><b>// stats</b></samp></p>
 
