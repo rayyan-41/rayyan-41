@@ -11,9 +11,7 @@
 </p>
 
 ---
-
 <p align="center"><samp><b>// languages & tools</b></samp></p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -29,7 +27,6 @@
 <br/>
 
 ---
-
 <p align="center"><samp><b>// stats</b></samp></p>
 
 <br/>
@@ -47,7 +44,6 @@
 <br/>
 
 ---
-
 <br/>
 
 <p align="center">
@@ -57,9 +53,9 @@
 <p align="center">
   <a href="https://github.com/rayyan-41"><samp>github</samp></a>
    · 
-  <a href="mailto:your@email.com"><samp>email</samp></a>
+  <a href="mailto:rayyanahmadsultan@email.com"><samp>email</samp></a>
    · 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><samp>linkedin</samp></a>
+  <a href="https://linkedin.com/in/niaaaa"><samp>linkedin</samp></a>
 </p>
 
 <br/>
