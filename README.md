@@ -31,12 +31,6 @@
 <br/>
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rayyan-41&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=222222&title_color=ffffff&text_color=666666&icon_color=ffffff&hide_border=false&count_private=true&hide=stars&rank_icon=github" />
-   
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan-41&layout=compact&theme=dark&bg_color=0d0d0d&border_color=222222&title_color=ffffff&text_color=666666&hide_border=false&langs_count=6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan-41&theme=dark&background=0d0d0d&border=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&currStreakNum=ffffff&sideNums=666666&dates=444444" />
 </p>
 
