@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-black?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
