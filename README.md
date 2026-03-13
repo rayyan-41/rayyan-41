@@ -58,5 +58,5 @@
 <br/>
 
 <p align="center">
-  <samp><sub>⌨ built with frustration and ctrl+z · rayyan-41</sub></samp>
+  <samp><sub>the intellect is only aquired in order to know things unknown</sub></samp>
 </p>
