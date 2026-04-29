@@ -11,22 +11,39 @@
 </p>
 
 ---
-<p align="center"><samp><b>// languages & tools</b></samp></p>
-
+<p align="center"><samp><b>// languages</b></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-black?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-black?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-black?style=flat-square&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+<p align="center"><samp><b>// tools</b></samp></p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-black?style=flat-square&logo=tauri&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-black?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pygame-black?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SFML-black?style=flat-square&logo=sfml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-black?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 <br/>
 
 ---
